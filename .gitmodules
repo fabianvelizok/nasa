@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:fabianvelizok/nasa-fe.git
+[submodule "server"]
+	path = server
+	url = git@github.com:fabianvelizok/nasa-api.git
